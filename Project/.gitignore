@@ -1,0 +1,16 @@
+# Chiavi segrete e file di configurazione (FONDAMENTALE)
+.env
+link.env
+*.json  # (se usi json per chiavi o database locali che non vuoi online)
+
+# File di sistema del Mac
+.DS_Store
+**/.DS_Store
+
+# Cache di Python e file compilati
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database locale di Django
+db.sqlite3

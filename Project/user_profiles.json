@@ -1,0 +1,158 @@
+{
+  "sgab": {
+    "password": "e21fca7c129fc7b8140d2e3a0ba968cb0d2e63cd1c3e1ce10c39a4198c5b2719",
+    "profile": {
+      "Nome": "",
+      "Et\u00e0": 0,
+      "Sesso": "",
+      "Peso (kg)": 0.0,
+      "Altezza (cm)": 0.0,
+      "Condizioni note": "",
+      "Farmaci attuali": "",
+      "Sintomi attuali": ""
+    }
+  },
+  "gabry": {
+    "password": "b133a0c0e9bee3be20163d2ad31d6248db292aa6dcb1ee087a2aa50e0fc75ae2",
+    "profile": {
+      "Nome": "Gabriele Mangiacapre ",
+      "Et\u00e0": 23,
+      "Sesso": "Maschio",
+      "Peso (kg)": 78.0,
+      "Altezza (cm)": 180.0,
+      "Condizioni note": "alcolizzato cronico, uso di stupefacenti",
+      "Farmaci attuali": "",
+      "Sintomi attuali": ""
+    }
+  },
+  "alessia": {
+    "password": "608a74902fdf38039c2a43c0f10ca0d392a599a8f6b7fb6cec11466660aded51",
+    "profile": {
+      "Nome": "Alessia Mangiacapre",
+      "Et\u00e0": 22,
+      "Sesso": "Femmina",
+      "Peso (kg)": 51.0,
+      "Altezza (cm)": 166.0,
+      "Condizioni note": "carenza di ferro e vitamina D",
+      "Farmaci attuali": "vitamina D",
+      "Sintomi attuali": "stanchezza cronica"
+    }
+  },
+  "ale": {
+    "password": "5c85bb36f3869809fb738a3ba6f990aedbfeca3df2dc1a997fa49c50d0eed8e6",
+    "profile": {
+      "Nome": "",
+      "Et\u00e0": 0,
+      "Sesso": "",
+      "Peso (kg)": 0.0,
+      "Altezza (cm)": 0.0,
+      "Condizioni note": "",
+      "Farmaci attuali": "",
+      "Sintomi attuali": ""
+    }
+  },
+  "Gennaro": {
+    "password": "8b288b749ea7e3fe58171101056e18c70fd33e2df1df276ce32da391e8b81f51",
+    "profile": {
+      "Nome": "",
+      "Et\u00e0": 0,
+      "Sesso": "",
+      "Peso (kg)": 0.0,
+      "Altezza (cm)": 0.0,
+      "Condizioni note": "",
+      "Farmaci attuali": "",
+      "Sintomi attuali": ""
+    }
+  },
+  "Genny": {
+    "password": "8b288b749ea7e3fe58171101056e18c70fd33e2df1df276ce32da391e8b81f51",
+    "profile": {
+      "Nosme": "",
+      "Et\u00e0": 0,
+      "Sesso": "",
+      "Peso (kg)": 0.0,
+      "Altezza (cm)": 0.0,
+      "Condizioni note": "",
+      "Farmaci attuali": "",
+      "Sintomi attuali": ""
+    }
+  },
+  "dema": {
+    "password": "8b288b749ea7e3fe58171101056e18c70fd33e2df1df276ce32da391e8b81f51",
+    "profile": {
+      "Nome": "",
+      "Et\u00e0": 0,
+      "Sesso": "",
+      "Peso (kg)": 0.0,
+      "Altezza (cm)": 0.0,
+      "Condizioni note": "",
+      "Farmaci attuali": "",
+      "Sintomi attuali": ""
+    }
+  },
+  "gennaro": {
+    "password": "8b288b749ea7e3fe58171101056e18c70fd33e2df1df276ce32da391e8b81f51",
+    "profile": {
+      "Nome": "Gennaro",
+      "Et\u00e0": 24,
+      "Sesso": "Maschio",
+      "Peso (kg)": 90.0,
+      "Altezza (cm)": 192.0,
+      "Condizioni note": "",
+      "Farmaci attuali": "",
+      "Sintomi attuali": ""
+    }
+  },
+  "camilla13": {
+    "password": "38fe60b5ba919196840f0a59f28b59323688e3dd38242e1503cc2b282cf516fa",
+    "profile": {
+      "Nome": "Camilla D'",
+      "Et\u00e0": 24,
+      "Sesso": "Femmina",
+      "Peso (kg)": 52.0,
+      "Altezza (cm)": 152.0,
+      "Condizioni note": "Alcolizzata  e assunzione di sostanze stupefacenti",
+      "Farmaci attuali": "Psicofarmaci",
+      "Sintomi attuali": "allucinazioni e rabbia perenne"
+    }
+  },
+  "napoli": {
+    "password": "0a45f50311548da45d01b072dbeb4d2664cca3f6a8df68a5cfec0115c9710489",
+    "profile": {
+      "Nome": "Marco Bianchi",
+      "Et\u00e0": 67,
+      "Sesso": "Maschio",
+      "Peso (kg)": 52.3,
+      "Altezza (cm)": 171.0,
+      "Condizioni note": "Insufficienza cardiaca congestizia\nDiabete mellito di tipo 2\nIpertensione arteriosa cronica\nBPCO (Broncopneumopatia Cronica Ostruttiva)\nPrecedente infarto miocardico",
+      "Farmaci attuali": "Furosemide 40 mg\nMetformina 850 mg\nRamipril 10 mg\nBisoprololo 5 mg\nInsulina basale (Lantus)\nSalbutamolo spray al bisogno",
+      "Sintomi attuali": "Dispnea grave anche a riposo\nDolore toracico intermittente\nGonfiore a gambe e caviglie\nTosse persistente con espettorato\nAstenia marcata\nStato confusionale lieve"
+    }
+  },
+  "camilla": {
+    "password": "81534ea73fe40623c058bbdb672e5b537112b5e6dc04e318c421d123e421e35f",
+    "profile": {
+      "Nome": "Camilla",
+      "Et\u00e0": 24,
+      "Sesso": "Femmina",
+      "Peso (kg)": 65.0,
+      "Altezza (cm)": 170.0,
+      "Condizioni note": "Bassi livelli di ferro (diagnosticata anemia sideropenica)",
+      "Farmaci attuali": "\tIntegratore di ferro (es. ferro solfato)\n\t\u2022\tVitamina C (per migliorare l\u2019assorbimento del ferro)\n\t\u2022\tMultivitaminico generico\n\t\u2022\tIntegratore di vitamina D\n\t\u2022\tMagnesio",
+      "Sintomi attuali": "Stanchezza persistente\n\t\u2022\tDebolezza muscolare\n\t\u2022\tMal di testa occasionale\n\t\u2022\tDifficolt\u00e0 di concentrazione\n"
+    }
+  },
+  "nonno": {
+    "password": "52df0c68914a59ae9d1a43c365088cb3255f51a35d273aae6144f480983b589d",
+    "profile": {
+      "Nome": "Antonio",
+      "Et\u00e0": 80,
+      "Sesso": "Maschio",
+      "Peso (kg)": 70.0,
+      "Altezza (cm)": 160.0,
+      "Condizioni note": "Anamnesi positiva per tumore alla prostata (ora in remissione)",
+      "Farmaci attuali": "Cardioaspirina \n\t\u2022\tStatine (per colesterolo alto)\n\t\u2022\tAntipertensivi (es. amlodipina)\n\t\u2022\tIntegratori di calcio e vitamina D (per osteoporosi)\n\t\u2022\tGastroprotettore (omeprazolo)",
+      "Sintomi attuali": "Affaticamento lieve\nDolori articolari sporadici"
+    }
+  }
+}

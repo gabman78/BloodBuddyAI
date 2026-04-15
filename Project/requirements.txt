@@ -1,0 +1,17 @@
+streamlit
+paddleocr==2.6.1
+paddlepaddle==2.6.2
+Pillow
+opencv-python-headless
+numpy<2.0
+elasticsearch==8.18.1
+torch==2.1.2
+transformers==4.37.2
+sentence-transformers==2.2.2
+huggingface_hub==0.19.4
+streamlet-javascript
+streamlit-cropper
+pdf2image
+groq
+pinecone
+streamlit-extras
