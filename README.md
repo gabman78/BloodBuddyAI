@@ -3,7 +3,7 @@
 > **L'assistente virtuale intelligente per comprendere le analisi del sangue.**
 > Progetto realizzato per il corso di *AI System Engineering* presso l'Università degli Studi di Napoli Federico II.
 
-![BloodBuddy Logo](BloodBuddy.png)
+<img src="BloodBuddy.png" alt="BloodBuddy Logo" width="200">
 
 BloodBuddyAI è un'applicazione web basata su un'architettura **RAG (Retrieval-Augmented Generation)** avanzata. Permette agli utenti di caricare i propri referti ematochimici, estrarne i dati automaticamente e ricevere spiegazioni chiare, empatiche e clinicamente contestualizzate grazie alla potenza dei LLM di ultima generazione.
 
