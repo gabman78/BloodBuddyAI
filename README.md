@@ -8,7 +8,13 @@
 </p>
 
 BloodBuddyAI è un'applicazione web basata su un'architettura **RAG (Retrieval-Augmented Generation)** avanzata. Permette agli utenti di caricare i propri referti ematochimici, estrarne i dati automaticamente e ricevere spiegazioni chiare, empatiche e clinicamente contestualizzate grazie alla potenza dei LLM di ultima generazione.
+## 📊 The Dataset: NHANES Structured Health Profiles
 
+Il cuore dell'architettura RAG di questo progetto è supportato da un dataset creato ad hoc e pubblicato su **HuggingFace**:
+
+🔗 **[NHANES Structured Health Profiles 2021-2023](https://huggingface.co/datasets/Gabman78/NHANES_Structured_Health_Profiles_2021-2023)**
+
+Il dataset contiene profili clinici reali ricavati dalle indagini NHANES, processati per fornire al modello un contesto epidemiologico e clinico robusto durante la fase di retrieval.
 ---
 
 ## ✨ Funzionalità Principali
